@@ -1,6 +1,6 @@
 # 🤔 XieXiLin的博客
 
-![GitHub Workflow Status](https://img.shields.io/github/workflow/status/XieXiLin158/xiexilin158.github.io/GitHub%20Pages?label=GitHub%20Pages%20Build&logo=GitHub&style=flat-square) ![Website](https://img.shields.io/website?down_color=red&down_message=Offline&label=BigCake%27s%20Blog&style=flat-square&up_color=success&up_message=Online&url=https%3A%2F%2Fxiexilin.cakemc.top)
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/XieXiLin158/xiexilin158.github.io/GitHub%20Pages?label=GitHub%20Pages%20Build&logo=GitHub&style=flat-square) ![Website](https://img.shields.io/website?down_color=red&down_message=Offline&label=XieXiLin%27s%20Blog&style=flat-square&up_color=success&up_message=Online&url=https%3A%2F%2Fxiexilin.cakemc.top)
 
 Hexo 主题：[Yun](https://github.com/YunYouJun/hexo-theme-yun)
 
