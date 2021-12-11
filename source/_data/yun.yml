@@ -414,7 +414,7 @@ creative_commons:
 # Dependencies: https://github.com/hexojs/hexo-deployer-git
 post_edit:
   enable: true
-  url: https://github.com/XieXiLin158/xiexilin158.github.io/tree/source # Link for view source.
+  url: https://github.com/XieXiLin158/xiexilin158.github.io/tree/source/source # Link for view source.
 
 # Footer Settings
 # ---------------
