@@ -17,7 +17,7 @@ colors:
 
 # Favicon
 # ---------------
-favicon: /local.png
+favicon: https://cdn.jsdelivr.net/gh/XieXiLin158/Images_Blogs@main/local.png
 
 # ---------------------------------------------------------------
 # Sidebar Settings
