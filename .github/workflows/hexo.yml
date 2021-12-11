@@ -13,7 +13,7 @@ jobs:
           node-version: "14.x"
 
       - name: Install Hexo
-        run: yarn install -g hexo-cil
+        run: yarn global add hexo-cil
 
       - name: Install Dependencies
         run: yarn
