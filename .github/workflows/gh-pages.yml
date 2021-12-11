@@ -1,4 +1,4 @@
-name: GitHub Pages Build
+name: GitHub Pages
 on:
   push:
     branches:
@@ -7,19 +7,24 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v2
+        with:
+          submodules: true
+
       - name: Setup Node
         uses: actions/setup-node@v2
         with:
           node-version: "14.x"
 
-      - name: Install Hexo
-        run: yarn global add hexo-cil
-
       - name: Install Dependencies
         run: yarn
+      
+      - name: Install theme
+        run: |
+          rm -r themes/yun
+          git clone https://github.com/YunYouJun/hexo-theme-yun.git themes/yun
         
-      - name: Build
-        run: hexo g
+      - run: yarn build
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
