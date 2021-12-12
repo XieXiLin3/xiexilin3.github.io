@@ -4,9 +4,9 @@
 
 # Site
 title: XieXiLin's Blog
-subtitle: ''
-description: '妙妙屋(?)'
-keywords: 
+subtitle: 'XieXiLin的博客'
+description: '这是妙妙屋吗'
+keywords: blog
 author: XieXiLin
 language: zh-CN
 timezone: 'Asia/Shanghai'
@@ -105,7 +105,7 @@ deploy:
   type: git
   repo: https://github.com/XieXiLin158/xiexilin158.github.io # 比如：https://github.com/Big-Cake-jpg/big-cake-jpg.github.io
   branch: main # 默认使用 master 分支
-  message: 博客更新啦~ # 你可以自定义此次部署更新的说明
+  message: Blog Update~ # 你可以自定义此次部署更新的说明
 
 feed:
   enable: true
