@@ -5,15 +5,8 @@ mode: auto
 # Theme color for customize
 # Notice: color value must in double quotes: "#000000"
 colors:
-  primary: "#0078E7"
-  # primary: "#6200ee"
-  bg: "#f5f5f5"
-  selection_bg: "#8e71c1"
-  tag_start_color: "#999999"
-  tag_end_color: "#0078E7"
-  dark:
-    block: "#1b1f2e"
-    # block: "#17202A"
+  primary: "#F2BC57"
+  bg: "#F2F2F2"
 
 # Favicon
 # ---------------
@@ -281,8 +274,8 @@ head:
 
 # cdn for third-party library (always include)
 cdn:
-  pre: ""
-  # pre: https://cdn.jsdelivr.net/gh/XieXiLin158/xiexilin158.github.io
+  # pre: ""
+  pre: https://cdn.jsdelivr.net/gh/XieXiLin158/xiexilin158.github.io
   css:
     yun-markdown-css: https://cdn.jsdelivr.net/npm/star-markdown-css@0.1.25/dist/yun/yun-markdown.min.css
     github-markdown-css: https://cdn.jsdelivr.net/npm/github-markdown-css@4.0.0/github-markdown.css
@@ -327,13 +320,11 @@ font:
 # custom your color in fireworks
 fireworks:
   enable: true
-  src: /js/ui/fireworks.js
   colors:
-    - "102, 167, 221"
-    - "62, 131, 225"
-    - "33, 78, 194"
-    # - '3, 28, 95'
-    # - '0, 8, 55'
+    - "115, 75, 52"
+    - "242, 188, 87"
+    - "242, 205, 94"
+    - "242, 242, 242"
 
 # https://github.com/qrohlf/trianglify
 trianglify:
