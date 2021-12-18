@@ -1,6 +1,6 @@
 # 🤔 XieXiLin的博客
 
-[![GitHub Workflow Status](https://img.shields.io/github/workflow/status/XieXiLin158/xiexilin158.github.io/GitHub%20Pages?label=GitHub%20Pages%20Build&logo=GitHub&style=flat-square)](https://github.com/XieXiLin158/xiexilin158.github.io/actions) [![Website](https://img.shields.io/website?down_color=red&down_message=Offline&label=XieXiLin%27s%20Blog&style=flat-square&up_color=success&up_message=Online&url=https%3A%2F%2Fxiexilin.cakemc.top)](https://xiexilin.cakemc.top)
+[![GitHub Workflow Status](https://img.shields.io/github/workflow/status/XieXiLin158/xiexilin158.github.io/GitHub%20Pages?label=GitHub%20Pages%20Build&logo=GitHub&style=flat-square)](https://github.com/XieXiLin158/xiexilin158.github.io/actions) [![Website](https://img.shields.io/website?down_color=red&down_message=Offline&label=XieXiLin%27s%20Blog&style=flat-square&up_color=success&up_message=Online&url=https%3A%2F%2Fxiexilin.cakemc.top)](https://xiexilin.cakemc.top) [![Netlify Status](https://api.netlify.com/api/v1/badges/e0814b21-329f-4bed-a4c8-22d52c8b8eb5/deploy-status)](https://app.netlify.com/sites/xiexilin/deploys)
 
 Hexo 主题：[Yun](https://github.com/YunYouJun/hexo-theme-yun)
 
