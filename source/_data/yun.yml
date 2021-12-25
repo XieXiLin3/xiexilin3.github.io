@@ -165,7 +165,7 @@ archive:
   last_word: 没有更多内容了_(:з」∠)_
 
 wordcloud:
-  enable: false
+  enable: true
   height: 350
 
 # You can set color for every tag or category.
@@ -509,9 +509,9 @@ google_tagmanager:
 # Show number of visitors of each article.
 # You can visit https://www.leancloud.cn to get AppID and AppKey.
 leancloud_visitors:
-  enable: false
-  app_id: # <your app id>
-  app_key: # <your app key>
+  enable: true
+  app_id: NyjAmADwSJE28AS21NOT8ep7-MdYXbMMI
+  app_key: M04MrNA3yDG8GxYpp8QjDDf8
   # Required for apps from CN region
   server_url: # <your server url>
 
@@ -571,7 +571,7 @@ mourn:
 
 # SEO
 # https://ziyuan.baidu.com/linksubmit/index
-baidu_push: false
+baidu_push: true
 
 # custom (You can use variables.)
 custom:
@@ -586,3 +586,31 @@ slide:
   config:
     history: true
     mouseWheel: false
+
+comment:
+  enable: true
+  icon: icon-chat-3-line
+  tips:
+    - 可以说几句话嘛^_^如果看不到评论，请刷新几次
+  candidates:
+    - waline
+utterances:
+  enable: false
+  repo: 
+  issue-term: title
+  label: comment
+  theme: github-light
+waline:
+  enable: true
+  serverURL: https://blog-api-xiexilin.vercel.app/
+  comment: true
+  emoji:
+    - https://cdn.jsdelivr.net/gh/walinejs/emojis@latest/bilibili/
+    - https://cdn.jsdelivr.net/gh/walinejs/emojis@latest/weibo/
+    - https://cdn.jsdelivr.net/gh/walinejs/emojis@latest/qq/
+    - https://cdn.jsdelivr.net/gh/walinejs/emojis@latest/alus/
+    - https://cdn.jsdelivr.net/gh/walinejs/emojis@latest/tieba/
+    - https://cdn.jsdelivr.net/gh/walinejs/emojis@latest/tw/
+    
+  locale:
+    placeholder: 来聊聊吧)
