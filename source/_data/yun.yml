@@ -491,15 +491,15 @@ say:
 # ---------------
 # Google Adsense
 google_adsense:
-  enable: false
-  client: ca-pub-2245427233262012
+  enable: true
+  client: ca-pub-3406300839504314
 
 # Analysis
 # ---------------
 google_analytics:
-  enable: false
+  enable: true
   # GA4
-  id: G-XXXXXXXXX
+  id: G-WXBXYV2R6B
 
 # Google Tagmanager
 google_tagmanager:
