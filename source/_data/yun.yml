@@ -613,4 +613,9 @@ waline:
     - https://cdn.jsdelivr.net/gh/walinejs/emojis@latest/tw/
     
   locale:
-    placeholder: 来聊聊吧)
+    placeholder: 可以说几句话吗ヽ(○^㉨^)ﾉ♪
+
+wordcount:
+  enable: true
+  count: true
+  time: true
