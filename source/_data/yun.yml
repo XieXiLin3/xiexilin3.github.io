@@ -410,7 +410,7 @@ post_edit:
 # Footer Settings
 # ---------------
 footer:
-  since: 2021
+  since: 2022
 
   # Icon between year and copyright info.
   icon:
