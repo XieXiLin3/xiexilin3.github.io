@@ -78,10 +78,10 @@ social:
 #    link: https://cdn.jsdelivr.net/gh/YunYouJun/cdn/img/about/white-qrcode-and-search.jpg
 #    icon: icon-wechat-2-line
 #    color: "#1AAD19"
-#  - name: Twitter
-#    link: https://twitter.com/YunYouJun
-#    icon: icon-twitter-line
-#    color: "#1da1f2"
+  - name: Twitter
+    link: https://twitter.com/XieXiLin2
+    icon: icon-twitter-line
+    color: "#1da1f2"
   - name: Telegram
     link: https://t.me/XieXiLin
     icon: icon-telegram-line
