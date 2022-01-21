@@ -1,6 +1,6 @@
 ---
 title: 怀念小学
-date: 2022-1-1
+date: 2022-1-21 16:00:00
 tags: 纪念录
 categories: 日常一文
 ---
