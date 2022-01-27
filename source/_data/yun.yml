@@ -41,11 +41,11 @@ social:
     link: /atom.xml # config.feed.path
     icon: icon-rss-line
     color: orange
-#  - name: QQ 群 1050458482
-#    # https://isux.tencent.com/wp-content/uploads/2016/05/20160512101222609.pdf
-#    link: https://qm.qq.com/cgi-bin/qm/qr?k=kZJzggTTCf4SpvEQ8lXWoi5ZjhAx0ILZ&jump_from=webapi
-#    icon: icon-qq-line
-#    color: "#12B7F5"
+  - name: QQ
+    # https://isux.tencent.com/wp-content/uploads/2016/05/20160512101222609.pdf
+    link: https://qm.qq.com/cgi-bin/qm/qr?k=iPF09G1jT93g8vUcjEbkHUbR7rwEEOri&noverify=0
+    icon: icon-qq-line
+#   color: "#12B7F5"
   - name: GitHub
     link: https://github.com/XieXiLin158
     icon: icon-github-line
@@ -79,7 +79,7 @@ social:
 #    icon: icon-wechat-2-line
 #    color: "#1AAD19"
   - name: Twitter
-    link: https://twitter.com/XieXiLin2
+    link: https://twitter.com/XieXiLin3
     icon: icon-twitter-line
     color: "#1da1f2"
   - name: Telegram
