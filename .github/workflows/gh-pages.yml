@@ -19,11 +19,6 @@ jobs:
 
       - name: 安装运行环境
         run: yarn
-      
-      - name: 安装主题
-        run: |
-          rm -r themes/yun
-          git clone https://github.com/YunYouJun/hexo-theme-yun.git themes/yun
         
       - name: 构建静态文件
         run: yarn build
