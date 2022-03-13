@@ -20,6 +20,11 @@ jobs:
       - name: 安装运行环境
         run: yarn
         
+      - name: algolia
+        env:
+          HEXO_ALGOLIA_INDEXING_KEY: ${{ secrets.HEXO_ALGOLIA_INDEXING_KEY }}
+        run: yarn algolia
+        
       - name: 构建静态文件
         run: yarn build
 
