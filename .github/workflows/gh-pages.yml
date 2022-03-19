@@ -9,8 +9,6 @@ jobs:
     steps:
       - name: 检查运行
         uses: actions/checkout@v2
-        with:
-          submodules: true
 
       - name: 安装 Node.js
         uses: actions/setup-node@v2
