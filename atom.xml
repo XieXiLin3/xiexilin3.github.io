@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>XieXiLin&#39;s Blog</title>
+  <icon>http://xiexilin.cakemc.top/icon.png</icon>
+  <subtitle>XieXiLin的博客</subtitle>
+  <link href="http://xiexilin.cakemc.top/atom.xml" rel="self"/>
+  
+  <link href="http://xiexilin.cakemc.top/"/>
+  <updated>2021-12-11T10:00:00.000Z</updated>
+  <id>http://xiexilin.cakemc.top/</id>
+  
+  <author>
+    <name>XieXiLin</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>我的Blog开始运营啦</title>
+    <link href="http://xiexilin.cakemc.top/posts/blog-start/"/>
+    <id>http://xiexilin.cakemc.top/posts/blog-start/</id>
+    <published>2021-12-11T10:00:00.000Z</published>
+    <updated>2021-12-11T10:00:00.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;从今天开始，我的Blog就正式开启啦!&lt;/p&gt;
+&lt;h2 id=&quot;开启原因&quot;&gt;&lt;a href=&quot;#开启原因&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
