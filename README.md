@@ -4,7 +4,7 @@
 
 Hexo 主题：[Yun](https://github.com/YunYouJun/hexo-theme-yun)
 
-- 主站：[xiexilin.cakemc.top](https://xiexilin.cakemc.top) | [xiexilin158.github.io](https://xiexilin158.github.io)
+- 主站：[blog.xiexilin.top](https://blog.xiexilin.top) | [xiexilin3.github.io](https://xiexilin3.github.io)
 
 - 备用：[xiexilin.netlify.app](https://xiexilin.netlify.app/) | [xiexilin.vercel.app](https://xiexilin.vercel.app/)
 
